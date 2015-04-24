@@ -1,0 +1,14 @@
+conf/
+docs/
+src/spidernotes/secrets.py
+.idea
+*~
+*.pyc
+*.pyo
+
+src/*
+!src/spidernotes
+!src/static
+!src/templates
+!src/app.yaml
+!src/index.yaml
