@@ -1,11 +1,6 @@
 conf/
 docs/
 src/spidernotes/secrets.py
-.idea
-*~
-*.pyc
-*.pyo
-
 src/*
 !src/spidernotes
 !src/static
